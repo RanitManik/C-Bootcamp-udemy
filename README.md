@@ -3,6 +3,8 @@
 
 ![image](https://github.com/RanitManik/C-Bootcamp/assets/138437760/a95de62c-a00d-4ab3-beec-5e49009d2911)
 
+---
+
 ## Course Overview
 
 Welcome to the "Master the C Language" course authored by Jason Fedin and Tim Buchalka's Learn Programming Academy. This
