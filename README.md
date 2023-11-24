@@ -1,5 +1,5 @@
 
-<div><h1 align="center">C Programming For Beginners - Master the C Language</h1></div>
+<div><h1 align="center">C Programming Bootcamp - Mastering the C Language</h1></div>
 
 ![image](https://github.com/RanitManik/C-Bootcamp/assets/138437760/a95de62c-a00d-4ab3-beec-5e49009d2911)
 
