@@ -35,7 +35,7 @@ advanced techniques.
 - No programming experience, all concepts taught in this class!
 
 ## Progress
-- [x] day01: [Introduction](#day01)
+- [x] [Introduction](https://github.com/RanitManik/C-Bootcamp/tree/main/Section_1%20Inroduction)
 
 ## Acknowledgment
 Special thanks to Jason Fedin and Tim Buchalka for creating this insightful course and sharing their expertise with the community.
