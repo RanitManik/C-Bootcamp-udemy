@@ -35,9 +35,27 @@ advanced techniques.
 - No programming experience, all concepts taught in this class!
 
 ## Progress
-- [x] [Introduction](https://github.com/RanitManik/C-Bootcamp/tree/main/Section_1%20Inroduction)
+- [x] Section 1: Introduction
+- [x] Section 2: Installing Required Software
+- [x] Section 3: Starting to write code
+- [x] Section 4: Basic Concepts
+- [x] Section 5: Variables and Data Types
+- [x] Section 6: Operators
+- [x] Section 7: Control Flow
+- [x] Section 8: Arrays
+- [x] Section 9: Functions
+- [x] Section 10: Character Strings
+- [x] Section 11: Debugging
+- [x] Section 12: Pointer Basics
+- [x] Section 13: Utilizing Pointers
+- [x] Section 14: Pointer Arithmetic
+- [x] Section 15: Dynamic Memory Allocation
+- [x] Section 16: Structures
+- [x] Section 17: File Input and Output
+- [x] Section 18: The Standard C Library
+- [x] Section 19: Conclusion
+- [x] Section 19: Extra Information - Source code, and other stuff
+
 
 ## Acknowledgment
 Special thanks to Jason Fedin and Tim Buchalka for creating this insightful course and sharing their expertise with the community.
-
----
