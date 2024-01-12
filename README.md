@@ -54,7 +54,7 @@ advanced techniques.
 - [x] Section 17: File Input and Output
 - [x] Section 18: The Standard C Library
 - [x] Section 19: Conclusion
-- [x] Section 19: Extra Information - Source code, and other stuff
+- [x] Section 20: Extra Information - Source code, and other stuff
 
 
 ## Acknowledgment
