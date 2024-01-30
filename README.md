@@ -1,61 +1,85 @@
+<div align="center"><h1>C Programming Bootcamp - Course Review</h1></div>
 
-<div><h1 align="center">C Programming Bootcamp - Mastering the C Language</h1></div>
-
-![image](https://github.com/RanitManik/C-Bootcamp/assets/138437760/a95de62c-a00d-4ab3-beec-5e49009d2911)
+<p align="center">
+  <img src="https://github.com/RanitManik/C-Bootcamp/assets/138437760/a95de62c-a00d-4ab3-beec-5e49009d2911" alt="Course Image">
+</p>
 
 ---
 
-## Course Overview
+## Course Completion Review
 
-Welcome to the "Master the C Language" course authored by Jason Fedin and Tim Buchalka's Learn Programming Academy. This
-course is designed for individuals at all skill levels, making it suitable for both beginners and experienced
-programmers.
+Welcome to the repository for the "Master the C Language" course by Tim Buchalka's Learn Programming Academy and Jason Fedin. 🚀 This repository serves as a comprehensive review and reflection of the C Programming Bootcamp, covering fundamental concepts to advanced techniques.
 
-### Course URL
+## Table of Contents
 
-[Click here to access the course on Udemy](https://www.udemy.com/course/c-programming-for-beginners-/)
+- [Course Completion Review](#course-completion-review)
+- [Table of Contents](#table-of-contents)
+- [Quick Links](#quick-links)
+- [Why This Course?](#why-this-course)
+- [What to Expect?](#what-to-expect)
+- [Course Content Overview](#course-content-overview)
+- [Certificate](#certificate)
+- [Special Thanks](#special-thanks)
 
-## Why Choose This Course
+## Quick Links
 
-This course is exceptional in its emphasis on **best practices** and offers valuable insights even for seasoned
-programmers. It provides a comprehensive understanding of the C programming language, from fundamental concepts to
-advanced techniques.
+- [Udemy Course](https://www.udemy.com/course/c-programming-for-beginners-/)
+- [Certificate](https://www.udemy.com/certificate/UC-38ac2410-7479-423f-b015-00a962abbefb/)
+- [C documentation by me](https://ranitmanik.github.io/C-documentation/)
 
-## What to Expect
+## Why This Course?
 
-- In-depth coverage of the C programming language, ensuring you not only learn *how* to code, but also *why* certain
-  practices are important.
-- A focus on writing high-quality code and developing effective problem-solving skills.
-- Suitable for both beginners and experienced programmers, with content that deepens understanding regardless of your
-  prior experience with C.
+This course stands out for several reasons:
 
-## Requirements
-- A computer running Microsoft Windows, Linux or the Mac operating systems
-- At least 4GB of ram is recommended
-- No programming experience, all concepts taught in this class!
+- 🚀 **Best Practices Emphasis:** Gain insights into the "whys" behind coding practices.
+- 🎓 **Comprehensive Learning:** From fundamentals to advanced techniques.
+- 🤔 **For All Skill Levels:** Tailored for both beginners and experienced coders.
 
-## Progress
-- [x] Section 1: Introduction
-- [x] Section 2: Installing Required Software
-- [x] Section 3: Starting to write code
-- [x] Section 4: Basic Concepts
-- [x] Section 5: Variables and Data Types
-- [x] Section 6: Operators
-- [x] Section 7: Control Flow
-- [x] Section 8: Arrays
-- [x] Section 9: Functions
-- [x] Section 10: Character Strings
-- [x] Section 11: Debugging
-- [x] Section 12: Pointer Basics
-- [x] Section 13: Utilizing Pointers
-- [x] Section 14: Pointer Arithmetic
-- [x] Section 15: Dynamic Memory Allocation
-- [x] Section 16: Structures
-- [x] Section 17: File Input and Output
-- [x] Section 18: The Standard C Library
-- [x] Section 19: Conclusion
-- [x] Section 20: Extra Information - Source code, and other stuff
+## What to Expect?
 
+In this journey, you experienced:
 
-## Acknowledgment
-Special thanks to Jason Fedin and Tim Buchalka for creating this insightful course and sharing their expertise with the community.
+- 💡 **In-depth Learning:** Mastering the intricacies of the C programming language.
+- 🧠 **Problem-Solving Skills:** Developing effective problem-solving strategies.
+- 🌐 **Versatility:** Suitable for all levels, enhancing understanding regardless of prior experience with C.
+
+## Course Content Overview
+
+<div align="center">
+  
+| Section | Topic                                            | Brief Description                              |
+| ------- | ------------------------------------------------ | ---------------------------------------------- |
+| 1       | Introduction                                     | Course overview and importance of C.           |
+| 2       | Installing Required Software                     | Setup and installation of necessary tools.     |
+| 3       | Starting to write code                           | Beginning the coding journey in C.             |
+| 4       | Basic Concepts                                   | Understanding core concepts of programming.    |
+| 5       | Variables and Data Types                         | Dive into the world of variables and types.    |
+| 6       | Operators                                        | Learn about various operators in C.            |
+| 7       | Control Flow                                     | Master the control structures in programming.  |
+| 8       | Arrays                                           | Explore the use of arrays in C.                |
+| 9       | Functions                                        | Understand the role and usage of functions.    |
+| 10      | Character Strings                                | Delve into the manipulation of strings.        |
+| 11      | Debugging                                        | Techniques for effective debugging.            |
+| 12      | Pointer Basics                                   | Introduction to pointers and their basics.     |
+| 13      | Utilizing Pointers                               | Practical applications of pointers.            |
+| 14      | Pointer Arithmetic                               | Advanced operations with pointers.             |
+| 15      | Dynamic Memory Allocation                        | Understanding and managing memory dynamically. |
+| 16      | Structures                                       | Introduction to structures in C.               |
+| 17      | File Input and Output                            | Working with files in C.                       |
+| 18      | The Standard C Library                           | Overview and usage of the C standard library.  |
+| 19      | Conclusion                                       | Recap and conclusion of the course.            |
+| 20      | Extra Information - Source code, and other stuff | Additional resources and information.          |
+
+</div>
+
+## Certificate
+
+[<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-38ac2410-7479-423f-b015-00a962abbefb.jpg">](https://www.udemy.com/certificate/UC-38ac2410-7479-423f-b015-00a962abbefb/)
+
+This certificate above verifies that RANIT KUMAR MANIK successfully completed the course C Programming For Beginners - Master the C Language on 01/30/2024 as taught by Tim Buchalka's Learn Programming Academy, Jason Fedin on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
+
+## Special Thanks
+
+A big shoutout to Jason Fedin and Tim Buchalka for creating this engaging course and sharing their wisdom with the community.
+
+Happy coding, and enjoy reflecting on your learning journey!
