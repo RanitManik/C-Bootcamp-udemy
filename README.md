@@ -45,8 +45,6 @@ In this journey, you experienced:
 - 🌐 **Versatility:** Suitable for all levels, enhancing understanding regardless of prior experience with C.
 
 ## Course Content Overview
-
-<div align="center">
   
 | #   | Topic                                            | Brief Description                              |
 | --- | ------------------------------------------------ | ---------------------------------------------- |
@@ -70,8 +68,6 @@ In this journey, you experienced:
 | 18  | The Standard C Library                           | Overview and usage of the C standard library.  |
 | 19  | Conclusion                                       | Recap and conclusion of the course.            |
 | 20  | Extra Information - Source code, and other stuff | Additional resources and information.          |
-
-</div>
 
 ## Certificate
 
