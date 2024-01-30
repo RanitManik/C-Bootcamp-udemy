@@ -20,6 +20,7 @@ Welcome to the repository for the "Master the C Language" course by Tim Buchalka
 - [Course Content Overview](#course-content-overview)
 - [Certificate](#certificate)
 - [Special Thanks](#special-thanks)
+- [Connect with me](#connect)
 
 ## Quick Links
 
@@ -47,28 +48,28 @@ In this journey, you experienced:
 
 <div align="center">
   
-| Section | Topic                                            | Brief Description                              |
-| ------- | ------------------------------------------------ | ---------------------------------------------- |
-| 1       | Introduction                                     | Course overview and importance of C.           |
-| 2       | Installing Required Software                     | Setup and installation of necessary tools.     |
-| 3       | Starting to write code                           | Beginning the coding journey in C.             |
-| 4       | Basic Concepts                                   | Understanding core concepts of programming.    |
-| 5       | Variables and Data Types                         | Dive into the world of variables and types.    |
-| 6       | Operators                                        | Learn about various operators in C.            |
-| 7       | Control Flow                                     | Master the control structures in programming.  |
-| 8       | Arrays                                           | Explore the use of arrays in C.                |
-| 9       | Functions                                        | Understand the role and usage of functions.    |
-| 10      | Character Strings                                | Delve into the manipulation of strings.        |
-| 11      | Debugging                                        | Techniques for effective debugging.            |
-| 12      | Pointer Basics                                   | Introduction to pointers and their basics.     |
-| 13      | Utilizing Pointers                               | Practical applications of pointers.            |
-| 14      | Pointer Arithmetic                               | Advanced operations with pointers.             |
-| 15      | Dynamic Memory Allocation                        | Understanding and managing memory dynamically. |
-| 16      | Structures                                       | Introduction to structures in C.               |
-| 17      | File Input and Output                            | Working with files in C.                       |
-| 18      | The Standard C Library                           | Overview and usage of the C standard library.  |
-| 19      | Conclusion                                       | Recap and conclusion of the course.            |
-| 20      | Extra Information - Source code, and other stuff | Additional resources and information.          |
+| #   | Topic                                            | Brief Description                              |
+| --- | ------------------------------------------------ | ---------------------------------------------- |
+| 1   | Introduction                                     | Course overview and importance of C.           |
+| 2   | Installing Required Software                     | Setup and installation of necessary tools.     |
+| 3   | Starting to write code                           | Beginning the coding journey in C.             |
+| 4   | Basic Concepts                                   | Understanding core concepts of programming.    |
+| 5   | Variables and Data Types                         | Dive into the world of variables and types.    |
+| 6   | Operators                                        | Learn about various operators in C.            |
+| 7   | Control Flow                                     | Master the control structures in programming.  |
+| 8   | Arrays                                           | Explore the use of arrays in C.                |
+| 9   | Functions                                        | Understand the role and usage of functions.    |
+| 10  | Character Strings                                | Delve into the manipulation of strings.        |
+| 11  | Debugging                                        | Techniques for effective debugging.            |
+| 12  | Pointer Basics                                   | Introduction to pointers and their basics.     |
+| 13  | Utilizing Pointers                               | Practical applications of pointers.            |
+| 14  | Pointer Arithmetic                               | Advanced operations with pointers.             |
+| 15  | Dynamic Memory Allocation                        | Understanding and managing memory dynamically. |
+| 16  | Structures                                       | Introduction to structures in C.               |
+| 17  | File Input and Output                            | Working with files in C.                       |
+| 18  | The Standard C Library                           | Overview and usage of the C standard library.  |
+| 19  | Conclusion                                       | Recap and conclusion of the course.            |
+| 20  | Extra Information - Source code, and other stuff | Additional resources and information.          |
 
 </div>
 
@@ -83,3 +84,12 @@ This certificate above verifies that RANIT KUMAR MANIK successfully completed th
 A big shoutout to Jason Fedin and Tim Buchalka for creating this engaging course and sharing their wisdom with the community.
 
 Happy coding, and enjoy reflecting on your learning journey!
+
+## Connect with me
+
+- [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /> Email](mailto:ranitmanik.dev@gmail.com)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /> LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /> Instagram](https://www.instagram.com/ranit_manik_/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /> Twitter](https://twitter.com/RANIT_MANIK)
+
