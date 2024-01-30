@@ -19,8 +19,8 @@ Welcome to the repository for the "Master the C Language" course by Tim Buchalka
 - [What to Expect?](#what-to-expect)
 - [Course Content Overview](#course-content-overview)
 - [Certificate](#certificate)
+- [Connect with me](#connect-with-me)
 - [Special Thanks](#special-thanks)
-- [Connect with me](#connect)
 
 ## Quick Links
 
@@ -79,17 +79,17 @@ In this journey, you experienced:
 
 This certificate above verifies that RANIT KUMAR MANIK successfully completed the course C Programming For Beginners - Master the C Language on 01/30/2024 as taught by Tim Buchalka's Learn Programming Academy, Jason Fedin on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
 
-## Special Thanks
-
-A big shoutout to Jason Fedin and Tim Buchalka for creating this engaging course and sharing their wisdom with the community.
-
-Happy coding, and enjoy reflecting on your learning journey!
-
 ## Connect with me
 
+_Feel free to reach out for any queries or discussions :_
 - [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /> Email](mailto:ranitmanik.dev@gmail.com)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /> LinkedIn](https://www.linkedin.com/in/ranit-manik/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /> Instagram](https://www.instagram.com/ranit_manik_/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /> Twitter](https://twitter.com/RANIT_MANIK)
 
+## Special Thanks
+
+A big shoutout to Jason Fedin and Tim Buchalka for creating this engaging course and sharing their wisdom with the community.
+
+Happy coding, and enjoy reflecting on your learning journey!
