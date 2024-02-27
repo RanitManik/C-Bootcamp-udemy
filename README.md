@@ -38,7 +38,7 @@ This course stands out for several reasons:
 
 ## What to Expect?
 
-In this journey, you experienced:
+In this journey, I experienced:
 
 - 💡 **In-depth Learning:** Mastering the intricacies of the C programming language.
 - 🧠 **Problem-Solving Skills:** Developing effective problem-solving strategies.
