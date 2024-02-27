@@ -1,5 +1,6 @@
+// Writing a C program that Creates a simple Weather Program
+
 #include <stdio.h>
-#include <stdlib.h>
 
 #define MONTHS 12
 #define YEARS 5
