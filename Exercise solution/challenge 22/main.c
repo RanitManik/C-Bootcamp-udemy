@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-#define FILENAME "texts/text.txt"
+#define FILENAME "Exercise solution/texts/text.txt"
 
 int main() {
     FILE *fp = NULL;

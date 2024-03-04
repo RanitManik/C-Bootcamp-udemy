@@ -4,8 +4,8 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-#define FILENAME "texts/text.txt"
-#define TEMPFILE "texts/temp.txt"
+#define FILENAME "Exercise solution/texts/text.txt"
+#define TEMPFILE "Exercise solution/texts/temp.txt"
 
 int main() {
     FILE *fp = fopen(FILENAME, "r");
